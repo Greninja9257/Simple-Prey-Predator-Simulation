@@ -1,14 +1,6 @@
-
 Simple-Prey-Predator-Simulation
 Welcome to the Simple-Prey-Predator-Simulation repository! This project simulates the interactions between prey and predators within a defined environment, showcasing basic principles of ecology and population dynamics.
 
-Table of Contents
-Introduction
-Features
-Installation
-Usage
-License
-Introduction
 This simulation models the interaction between prey and predators in a simple, two-dimensional environment. The prey and predators move around the grid, with predators hunting the prey and prey trying to avoid predators. The simulation demonstrates basic concepts of predator-prey dynamics, including population growth and decline.
 
 Features
